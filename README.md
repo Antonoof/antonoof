@@ -8,16 +8,16 @@
 #### 😇 𝙈𝙖𝙮𝙗𝙚 𝙄'𝙢 𝙜𝙤𝙤𝙙 𝙖𝙩 𝙨𝙤𝙢𝙚𝙩𝙝𝙞𝙣𝙜?
 
 <p>
-    <a href="https://github.com/Antonoof/my-certificates" target="_blank"><img alt="My Certificates" src="https://img.shields.io/badge/Certificates-00599c?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://www.youtube.com/@Antonoof" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
     <a href="https://leetcode.com/u/antonoof/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
     <a href="https://www.kaggle.com/antonoof" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-    <a href="https://www.youtube.com/@Antonoof" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-#### 📑 𝙈𝙮 𝙧𝙚𝙨𝙪𝙢𝙚 𝙖𝙣𝙙 𝙙𝙚𝙜𝙧𝙚𝙚 𝙞𝙣 𝙨𝙥𝙤𝙧𝙩𝙨:
+#### 📑 𝙈𝙮 𝙧𝙚𝙨𝙪𝙢𝙚 𝙖𝙣𝙙 𝙖𝙘𝙝𝙞𝙚𝙫𝙚𝙢𝙚𝙣𝙩𝙨:
 
 <p>
     <a href="https://msrfinfo.ru/people/112512" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-00599c?style=for-the-badge&logo=resume&logoColor=white"/></a>
+    <a href="https://github.com/Antonoof/my-certificates" target="_blank"><img alt="My Certificates" src="https://img.shields.io/badge/Certificates-00599c?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://msrfinfo.ru/people/112512" target="_blank"><img alt="Sports" src="https://img.shields.io/badge/Sports-4285F4?style=for-the-badge&logo=sports&logoColor=white"/></a>
 </p>
 
