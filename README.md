@@ -14,20 +14,17 @@
     <a href="https://www.youtube.com/@Antonoof" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-#### 💪 𝙈𝙮 𝙙𝙚𝙜𝙧𝙚𝙚 𝙞𝙣 𝙨𝙥𝙤𝙧𝙩𝙨:
-
-<p>
-    <a href="https://msrfinfo.ru/people/112512" target="_blank"><img alt="Sports" src="https://img.shields.io/badge/Sports-4285F4?style=for-the-badge&logo=sports&logoColor=white"/></a>
-</p>
-
-#### 📑 𝙈𝙮 𝙧𝙚𝙨𝙪𝙢𝙚:
+#### 📑 𝙈𝙮 𝙧𝙚𝙨𝙪𝙢𝙚 𝙖𝙣𝙙 𝙙𝙚𝙜𝙧𝙚𝙚 𝙞𝙣 𝙨𝙥𝙤𝙧𝙩𝙨:
 
 <p>
     <a href="https://msrfinfo.ru/people/112512" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-00599c?style=for-the-badge&logo=resume&logoColor=white"/></a>
+    <a href="https://msrfinfo.ru/people/112512" target="_blank"><img alt="Sports" src="https://img.shields.io/badge/Sports-4285F4?style=for-the-badge&logo=sports&logoColor=white"/></a>
 </p>
 
 #### 📞 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 𝙤𝙣 𝙝𝙚𝙧𝙚:
 
 <p>
     <a href="https://t.me/Tem04kant" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://vk.com/antonoof" target="_blank"><img alt="VKontakte" src="https://img.shields.io/badge/VKontakte-4C75A3?style=for-the-badge&logo=vk&logoColor=white"/></a>
+    <a href="mailto:kalka1686@mail.ru" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
