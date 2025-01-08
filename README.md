@@ -5,6 +5,13 @@
 - 🎓 𝙄𝙣 𝙖𝙣𝙮 𝙨𝙘𝙞𝙚𝙣𝙘𝙚, 𝙩𝙝𝙚𝙧𝙚 𝙞𝙨 𝙖𝙨 𝙢𝙪𝙘𝙝 𝙩𝙧𝙪𝙩𝙝 𝙖𝙨 𝙩𝙝𝙚𝙧𝙚 𝙞𝙨 𝙢𝙖𝙩𝙝𝙚𝙢𝙖𝙩𝙞𝙘𝙨 𝙞𝙣 𝙞𝙩.
 - 🤣 𝙄 𝙝𝙖𝙫𝙚 𝙩𝙝𝙚 𝙨𝙩𝙧𝙤𝙣𝙜𝙚𝙨𝙩 𝙢𝙤𝙙𝙚𝙡𝙨 𝙗𝙚𝙘𝙖𝙪𝙨𝙚 𝙄 𝙤𝙫𝙚𝙧𝙛𝙞𝙩 𝙩𝙝𝙚𝙢.
 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 #### 😇 𝙈𝙖𝙮𝙗𝙚 𝙄'𝙢 𝙜𝙤𝙤𝙙 𝙖𝙩 𝙨𝙤𝙢𝙚𝙩𝙝𝙞𝙣𝙜?
 
 <p>
