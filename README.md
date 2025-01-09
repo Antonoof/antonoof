@@ -1,11 +1,11 @@
 ## 👁️ 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙑𝙞𝙨𝙞𝙤𝙣, 🧠 𝘿𝙚𝙚𝙥 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜...
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚:
 - 🥇 𝙏𝙝𝙚 𝙬𝙖𝙮 𝙤𝙛 𝙨𝙪𝙘𝙘𝙚𝙨𝙨 𝙞𝙨 𝙩𝙝𝙚 𝙬𝙖𝙮 𝙤𝙛 𝙘𝙤𝙣𝙩𝙞𝙣𝙪𝙤𝙪𝙨 𝙥𝙪𝙧𝙨𝙪𝙞𝙩 𝙤𝙛 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚.
@@ -33,5 +33,5 @@
 <p>
     <a href="https://t.me/Tem04kant" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="https://vk.com/antonoof" target="_blank"><img alt="VKontakte" src="https://img.shields.io/badge/VKontakte-4C75A3?style=for-the-badge&logo=vk&logoColor=white"/></a>
-    <a href="mailto:kalka1686@mail.ru" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:artem.antonov.cv@bk.ru" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
