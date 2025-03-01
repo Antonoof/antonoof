@@ -18,9 +18,9 @@
 ### Компьютерное Зрение
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=white)
-![SSD](https://img.shields.io/badge/SSD-0e5c0d?style=for-the-badge&logo=ssd&logoColor=black)
-![CLIP](https://img.shields.io/badge/CLIP-e5e5e5?style=for-the-badge&logo=clip&logoColor=black)
-![DINO](https://img.shields.io/badge/DINO-04ff00?style=for-the-badge&logo=dino&logoColor=black)
+![SSD](https://img.shields.io/badge/SSD-0E5C0D?style=for-the-badge&logo=ssd&logoColor=black)
+![CLIP](https://img.shields.io/badge/CLIP-E5E5E5?style=for-the-badge&logo=clip&logoColor=black)
+![DINO](https://img.shields.io/badge/DINO-04FF00?style=for-the-badge&logo=dino&logoColor=black)
 
 ### Базы Данных
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
