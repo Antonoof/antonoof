@@ -27,12 +27,12 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 𝙏𝙤𝙤𝙡𝙨 𝙖𝙣𝙙 𝙋𝙡𝙖𝙩𝙛𝙤𝙧𝙢𝙨
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚:
 - 🥇 𝙏𝙝𝙚 𝙬𝙖𝙮 𝙤𝙛 𝙨𝙪𝙘𝙘𝙚𝙨𝙨 𝙞𝙨 𝙩𝙝𝙚 𝙬𝙖𝙮 𝙤𝙛 𝙘𝙤𝙣𝙩𝙞𝙣𝙪𝙤𝙪𝙨 𝙥𝙪𝙧𝙨𝙪𝙞𝙩 𝙤𝙛 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚.
