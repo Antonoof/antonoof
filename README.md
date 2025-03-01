@@ -1,5 +1,5 @@
 ## 👁️ 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙑𝙞𝙨𝙞𝙤𝙣, 🧠 𝘿𝙚𝙚𝙥 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜...
-### Программирование и Языки
+### 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙖𝙣𝙙 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -7,7 +7,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Машинное Обучение и ИИ
+### 𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙖𝙣𝙙 𝘼𝙄
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -15,20 +15,20 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### Компьютерное Зрение
+### 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙑𝙞𝙨𝙞𝙤𝙣
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=white)
 ![SSD](https://img.shields.io/badge/SSD-0E5C0D?style=for-the-badge&logo=ssd&logoColor=black)
 ![CLIP](https://img.shields.io/badge/CLIP-E5E5E5?style=for-the-badge&logo=clip&logoColor=black)
 ![DINO](https://img.shields.io/badge/DINO-13C710?style=for-the-badge&logo=dino&logoColor=black)
 
-### Базы Данных
+### 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Инструменты и Платформы
+### 𝙏𝙤𝙤𝙡𝙨 𝙖𝙣𝙙 𝙋𝙡𝙖𝙩𝙛𝙤𝙧𝙢𝙨
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
