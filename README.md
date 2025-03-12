@@ -45,6 +45,7 @@
     <a href="https://www.youtube.com/@Antonoof" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
     <a href="https://leetcode.com/u/antonoof/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
     <a href="https://www.kaggle.com/antonoof" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+    <a href="https://www.deep-ml.com/profile/mmitg8PMdnf1AIkKemNRvO2HSbI2" target="_blank"><img alt="Deep-ML" src="https://img.shields.io/badge/Deep-ML-00A3E0?style=for-the-badge&logo=deep-learning&logoColor=white"/></a>
 </p>
 
 #### 📑 𝙈𝙮 𝙧𝙚𝙨𝙪𝙢𝙚 𝙖𝙣𝙙 𝙖𝙘𝙝𝙞𝙚𝙫𝙚𝙢𝙚𝙣𝙩𝙨:
