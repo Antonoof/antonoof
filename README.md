@@ -21,6 +21,7 @@
 ![DINO](https://img.shields.io/badge/DINO-13C710?style=for-the-badge&logo=dino&logoColor=black)
 
 ### 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
