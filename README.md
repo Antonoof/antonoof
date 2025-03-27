@@ -1,6 +1,6 @@
 ## 👁️ 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙑𝙞𝙨𝙞𝙤𝙣, 🧠 𝘿𝙚𝙚𝙥 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜...
 ### 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙖𝙣𝙙 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
