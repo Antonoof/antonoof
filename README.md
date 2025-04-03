@@ -54,6 +54,7 @@
 <p>
     <a href="https://github.com/Antonoof/antonoof/blob/main/resume.pdf" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-00599c?style=for-the-badge&logo=resume&logoColor=white"/></a>
     <a href="https://github.com/Antonoof/my-certificates" target="_blank"><img alt="My Certificates" src="https://img.shields.io/badge/Certificates-00599c?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/Antonoof/my-certificates/blob/main/top%203%20deepml.png" target="_blank"><img alt="Deep-ML" src="https://img.shields.io/badge/Deep-ML-00A3E0?style=for-the-badge&logo=deep-learning&logoColor=white"/></a>
     <a href="https://msrfinfo.ru/people/112512" target="_blank"><img alt="Sports" src="https://img.shields.io/badge/Sports-4285F4?style=for-the-badge&logo=sports&logoColor=white"/></a>
 </p>
 
