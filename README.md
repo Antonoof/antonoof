@@ -35,9 +35,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚:
 
-#### 😇 𝙈𝙖𝙮𝙗𝙚 𝙄'𝙢 𝙜𝙤𝙤𝙙 𝙖𝙩 𝙨𝙤𝙢𝙚𝙩𝙝𝙞𝙣𝙜?
+
+
+
+#### 😇 Click to check my profile?
 
 <p>
     <a href="https://www.youtube.com/@Antonoof" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -55,7 +57,7 @@
     <a href="https://msrfinfo.ru/people/112512" target="_blank"><img alt="Sports" src="https://img.shields.io/badge/Sports-4285F4?style=for-the-badge&logo=sports&logoColor=white"/></a>
 </p>
 
-#### 📞 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 𝙤𝙣 𝙝𝙚𝙧𝙚:
+#### 📞 𝘾𝙤𝙣𝙩𝙖𝙘𝙩:
 
 <p>
     <a href="https://t.me/Tem04kant" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
