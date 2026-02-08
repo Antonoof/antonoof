@@ -1,6 +1,7 @@
 ## 👁️ 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙑𝙞𝙨𝙞𝙤𝙣, 🧠 𝘿𝙚𝙚𝙥 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜...
 ### 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙖𝙣𝙙 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -12,11 +13,19 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![AutoML](https://img.shields.io/badge/AutoML-FF6F00?style=for-the-badge&logo=automl&logoColor=white)
+![Boosting](https://img.shields.io/badge/Boosting-5C3EE8?style=for-the-badge&logo=xgboost&logoColor=white)
+![TabPFN](https://img.shields.io/badge/TabPFN-013243?style=for-the-badge&logo=python&logoColor=white)
+![TabM](https://img.shields.io/badge/TabM-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙑𝙞𝙨𝙞𝙤𝙣
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=white)
 ![SSD](https://img.shields.io/badge/SSD-0E5C0D?style=for-the-badge&logo=ssd&logoColor=black)
+![Transformer](https://img.shields.io/badge/Transformer-FFD700?style=for-the-badge&logo=transformer&logoColor=black)
+![Swin](https://img.shields.io/badge/Swin-000000?style=for-the-badge&logo=microsoft&logoColor=white)
+![ConvNext](https://img.shields.io/badge/ConvNext-000000?style=for-the-badge&logo=microsoft&logoColor=white)
+![DeepLab](https://img.shields.io/badge/DeepLab-F37626?style=for-the-badge&logo=google&logoColor=white)
 ![CLIP](https://img.shields.io/badge/CLIP-E5E5E5?style=for-the-badge&logo=clip&logoColor=black)
 ![DINO](https://img.shields.io/badge/DINO-13C710?style=for-the-badge&logo=dino&logoColor=black)
 
@@ -31,13 +40,14 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+***
 
-
-
+### 🌐 𝙎𝙤𝙘𝙞𝙖𝙡 𝙋𝙧𝙤𝙛𝙞𝙡𝙚𝙨
 
 #### 😇 Click to check my profile?
 
@@ -48,7 +58,11 @@
     <a href="https://www.deep-ml.com/profile/mmitg8PMdnf1AIkKemNRvO2HSbI2" target="_blank"><img alt="Deep-ML" src="https://img.shields.io/badge/Deep-ML-00A3E0?style=for-the-badge&logo=deep-learning&logoColor=white"/></a>
 </p>
 
-#### 📑 𝙈𝙮 𝙧𝙚𝙨𝙪𝙢𝙚 𝙖𝙣𝙙 𝙖𝙘𝙝𝙞𝙚𝙫𝙚𝙢𝙚𝙣𝙩𝙨:
+***
+
+### 📑 𝘿𝙤𝙘𝙪𝙢𝙚𝙣𝙩𝙨 𝙖𝙣𝙙 𝘼𝙘𝙝𝙞𝙚𝙫𝙚𝙢𝙚𝙣𝙩𝙨
+
+#### 📄 𝙈𝙮 𝙧𝙚𝙨𝙪𝙢𝙚 𝙖𝙣𝙙 𝙖𝙘𝙝𝙞𝙚𝙫𝙚𝙢𝙚𝙣𝙩𝙨:
 
 <p>
     <a href="https://github.com/Antonoof/antonoof/blob/main/resume.pdf" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-00599c?style=for-the-badge&logo=resume&logoColor=white"/></a>
@@ -57,7 +71,11 @@
     <a href="https://msrfinfo.ru/people/112512" target="_blank"><img alt="Sports" src="https://img.shields.io/badge/Sports-4285F4?style=for-the-badge&logo=sports&logoColor=white"/></a>
 </p>
 
-#### 📞 𝘾𝙤𝙣𝙩𝙖𝙘𝙩:
+***
+
+### 📞 𝙎𝙩𝙖𝙮 𝙞𝙣 𝙏𝙤𝙪𝙘𝙝
+
+#### 📲 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚:
 
 <p>
     <a href="https://t.me/Tem04kant" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
