@@ -9,18 +9,18 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙖𝙣𝙙 𝘼𝙄
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Boosting](https://img.shields.io/badge/Boosting-5C3EE8?style=for-the-badge&logo=xgboost&logoColor=white)
+![TabM](https://img.shields.io/badge/TabM-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AutoML](https://img.shields.io/badge/AutoML-FF6F00?style=for-the-badge&logo=automl&logoColor=white)
+![TabPFN](https://img.shields.io/badge/TabPFN-013243?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![AutoML](https://img.shields.io/badge/AutoML-FF6F00?style=for-the-badge&logo=automl&logoColor=white)
-![Boosting](https://img.shields.io/badge/Boosting-5C3EE8?style=for-the-badge&logo=xgboost&logoColor=white)
-![TabPFN](https://img.shields.io/badge/TabPFN-013243?style=for-the-badge&logo=python&logoColor=white)
-![TabM](https://img.shields.io/badge/TabM-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙑𝙞𝙨𝙞𝙤𝙣
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![SSD](https://img.shields.io/badge/SSD-0E5C0D?style=for-the-badge&logo=ssd&logoColor=black)
 ![Transformer](https://img.shields.io/badge/Transformer-FFD700?style=for-the-badge&logo=transformer&logoColor=black)
 ![Swin](https://img.shields.io/badge/Swin-000000?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -47,9 +47,7 @@
 
 ***
 
-### 🌐 𝙎𝙤𝙘𝙞𝙖𝙡 𝙋𝙧𝙤𝙛𝙞𝙡𝙚𝙨
-
-#### 😇 Click to check my profile?
+#### 😇 Click to check my profile.
 
 <p>
     <a href="https://www.youtube.com/@Antonoof" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -59,8 +57,6 @@
 </p>
 
 ***
-
-### 📑 𝘿𝙤𝙘𝙪𝙢𝙚𝙣𝙩𝙨 𝙖𝙣𝙙 𝘼𝙘𝙝𝙞𝙚𝙫𝙚𝙢𝙚𝙣𝙩𝙨
 
 #### 📄 𝙈𝙮 𝙧𝙚𝙨𝙪𝙢𝙚 𝙖𝙣𝙙 𝙖𝙘𝙝𝙞𝙚𝙫𝙚𝙢𝙚𝙣𝙩𝙨:
 
@@ -73,9 +69,7 @@
 
 ***
 
-### 📞 𝙎𝙩𝙖𝙮 𝙞𝙣 𝙏𝙤𝙪𝙘𝙝
-
-#### 📲 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚:
+#### 📞 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚:
 
 <p>
     <a href="https://t.me/Tem04kant" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
