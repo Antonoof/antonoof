@@ -28,6 +28,7 @@
 ![DeepLab](https://img.shields.io/badge/DeepLab-F37626?style=for-the-badge&logo=google&logoColor=white)
 ![CLIP](https://img.shields.io/badge/CLIP-E5E5E5?style=for-the-badge&logo=clip&logoColor=black)
 ![DINO](https://img.shields.io/badge/DINO-13C710?style=for-the-badge&logo=dino&logoColor=black)
+![BEV](https://img.shields.io/badge/BEV-c73080?style=for-the-badge&logo=dino&logoColor=white)
 
 ### 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
