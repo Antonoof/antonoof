@@ -9,7 +9,6 @@
     <a href="https://www.deep-ml.com/profile/mmitg8PMdnf1AIkKemNRvO2HSbI2" target="_blank"><img alt="Deep-ML" src="https://img.shields.io/badge/Deep-ML-00A3E0?style=for-the-badge&logo=deep-learning&logoColor=white"/></a>
 </p>
 
-***
 
 #### 📄 𝙈𝙮 𝙧𝙚𝙨𝙪𝙢𝙚 𝙖𝙣𝙙 𝙖𝙘𝙝𝙞𝙚𝙫𝙚𝙢𝙚𝙣𝙩𝙨:
 
@@ -20,7 +19,6 @@
     <a href="https://msrfinfo.ru/people/112512" target="_blank"><img alt="Sports" src="https://img.shields.io/badge/Sports-4285F4?style=for-the-badge&logo=sports&logoColor=white"/></a>
 </p>
 
-***
 
 #### 📞 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚:
 
